@@ -1,7 +1,7 @@
 # WMViewCapture
 --
 
-#### WMViewCapture目前支持UIWebView和WKWebView，能够截取网页的所有内容。
+#### WMViewCapture目前支持UIWebView和WKWebView，能够截取网页的所有内容。详情请见[iOS 网页截图的方法](http://swifty.wang/2017/07/12/Screenshots/)
 
 
 ### 用法
